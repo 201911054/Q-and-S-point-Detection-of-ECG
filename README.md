@@ -1,0 +1,1 @@
+# Q-and-S-point-Detection-of-ECG
